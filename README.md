@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @adam-tech-life
 - 👀 Je suis passioné par la programmation
-- 🌱 Chaque jour j'essaye d'apprendre de nouvelle chose
+- 🌱 Chaque jour j'essaye d'apprendre de nouvelles choses
 - 💞️ Je suis ouvert à toute collaboration de projet
 
 <!---
